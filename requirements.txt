@@ -1,0 +1,6 @@
+pydantic
+pydantic_core
+openai
+google-genai
+aiohttp
+python-dotenv

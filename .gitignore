@@ -1,0 +1,15 @@
+.env/ 
+.env
+venv/
+.venv/
+node_modules/
+# Local Netlify folder
+.netlify
+audifono_telefonos.txt
+__pycache__/
+*.log
+*.pyc
+__pycache__
+static/informes_sofia/
+tmp_files/
+.DS_Store
