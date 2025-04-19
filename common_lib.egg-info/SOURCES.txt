@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+common_lib/__init__.py
+common_lib/ai_models.py
+common_lib/ai_request.py
+common_lib/gpt_promts.py
+common_lib/prueba.py
+common_lib/shared_fuctions.py
+common_lib.egg-info/PKG-INFO
+common_lib.egg-info/SOURCES.txt
+common_lib.egg-info/dependency_links.txt
+common_lib.egg-info/top_level.txt

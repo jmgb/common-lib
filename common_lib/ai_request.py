@@ -8,7 +8,7 @@ import sys
 import aiohttp
 from datetime import datetime, timedelta, date, timezone
 
-from shared_fuctions import *
+from common_lib.shared_functions import *
 from ai_models import *
 
 
