@@ -1,5 +1,5 @@
-from ai_request import * 
-from common_lib.gpt_prompts import * 
+from .ai_request import * 
+from .gpt_prompts import * 
 
 # Iniciar el logger:
 logger = setup_logger('prueba', 'prueba.log')
